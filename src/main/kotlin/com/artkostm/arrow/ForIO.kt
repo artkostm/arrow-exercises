@@ -1,3 +1,5 @@
+package com.artkostm.arrow
+
 import arrow.typeclasses.*
 import arrow.effects.*
 
